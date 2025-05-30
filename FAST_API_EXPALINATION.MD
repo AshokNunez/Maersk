@@ -96,6 +96,3 @@ This project demonstrates how to build a simple **FastAPI** application that con
 
 ---
 
-## License
-
-MIT License
